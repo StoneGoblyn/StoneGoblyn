@@ -1,4 +1,10 @@
-## Hi there 👋
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" height="50px"/>-->
+![](https://raw.githubusercontent.com/StoneGoblyn/githubstats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/StoneGoblyn/githubstats/master/generated/languages.svg#gh-dark-mode-only)
+
+
 
 <!--
 **StoneGoblyn/StoneGoblyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
